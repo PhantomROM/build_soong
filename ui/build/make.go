@@ -99,7 +99,7 @@ func runMakeProductConfig(ctx Context, config Config) {
 
 	// Variables to print out in the top banner
 	bannerVars := []string{
-		"DU_VERSION",
+		"PHANTOM_VERSION",
 		"TARGET_BUILD_VARIANT",
 		"TARGET_ARCH",
 		"TARGET_ARCH_VARIANT",
